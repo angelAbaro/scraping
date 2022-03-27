@@ -1,0 +1,48 @@
+INSTALAR LIBRERÍAS EN PYTHON
+Cuando instalamos Python en nuestrascomputadoras, también se nos instaló algo 
+llamado pip. pip es el manejador de paquetes y librerías de Python. Es decir, a 
+través de pip nosotros vamos a instalar y desinstalar librerías. 
+Pip se utiliza desde cualquier lado en cualquier terminal, y utilizarlo es sumamente 
+sencillo:
+a. Para instalar una librería:
+pip install [NOMBRE_DE_LIBRERIA]
+b. Para desinstalar una librería:
+pip uninstall [NOMBRE_DE_LIBRERIA]
+Es decir, para instalar la librería “requests”, haremos lo siguiente:
+pip install requests
+Algunas veces, por motivos de permisos dentro de nuestro usuario, el comando 
+anterior fallará. Si esto sucede, intentaremos ejecutar el siguiente comando:
+pip install requests --user
+
+********************Empecemos*************************** 
+
+// libreria para hacer requerimientos a un servidor
+pip install requests
+
+// libreria para parsear los html
+pip install beautifulsoup4
+
+// libreia para parsear los html
+pip install lxml 
+
+// libreria para hacer extracciones dinamicas
+pip install selenium 
+
+// libreria para extraccion de imagenes
+pip install pillow 
+
+// libreria para guardado de informacion a base de datos
+pip install pymongo
+
+
+// instalar libreria scrapy
+// linux:  pip install scrapy
+// instalar scrapi en windows
+entrar aqui y buscar twisted
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
+elegir Twisted-20.3.0-cp39-cp39-win32.whl y descargar
+instalar abriendo el cmd y entrar a descargas e instalar
+pip install Twisted-20.3.0-cp39-cp39-win32.whl
+
+// ahora podemos instalar scrapy para requerimientos y extraccion de datos
+pip install scrapy

@@ -1,0 +1,94 @@
+descripcion,id,pregunta
+"
+                I'm trying to run a network analysis for data from acoustic telemetry with fish. For doing that, I'm using the R-code from Whoriskey et al., 2019 based on the igraph library. My nodes represent ...;
+            ",[0],How to include loops in a network analysis (igraph)?
+"
+                Given the following UML diagram. Answer the following questions
+LabResult
+
+newNum: int //–- auto-increment
+patientName: String
+previousResult: int //-- should be less than 35
+currentResult: int //-- ...;
+            ",[1],can anyone help me by solving this java pleasssssse
+"
+                I'm trying to implement a first time using screen (like any other app when you have to fill some options before using the app for the first time).
+I can't go to another Jetpack compose on an main ...;
+            ",[2],check if first time using the app in launch
+"
+                flutter/dart how to codding pwa download?
+I want to download various window pwa-apps.
+but I don't no ideas.
+The code scenario I think of is as follows.
+ㅡㅡㅡㅡㅡㅡ
+
+    exsample)
+    my flutter window app 
+...;
+            ",[3],flutter/dart how to codding pwa download?
+"
+                Need to find average of the counts. Basically looking for average of count of Usernum where risk preference is not null.;
+            ",[4],Calculate Average of Aggregated
+"
+                My PHP script is now not working because website owner is using CloudFlare protection
+i want a perfect solution for this issue
+<?php     $number=$_GET['no'];    ?>     <script>         ...;
+            ",[5],PHP CloudFlare protection bypass
+"
+                I had to stop mongodb service for a reason. Now, I want to restart the mongodb service. After restarted mongodb serveice I can't run $ mongo as that throws the following error.
+MongoDB shell version ...;
+            ",[6],Can't start mongodb service after stopping it
+"
+                I have the following component:
+import { useAuth } from './Auth';
+
+export function Home() {
+    const { user } = useAuth();
+    const location = useLocation();
+    // if (location.pathname == ""/&...;
+            ",[7],Can't resolve tsx modules even with .tsx in webpack.config resolve extensions array
+"
+                I'm new to kivy and I want to access the touch Object without overwriting motion event functions like on_touch_down(self,touch), on_touch_up(), etc..
+I want to access touch.pos in order to dynamically ...;
+            ",[8],Kivy Access Touch Object
+"
+                I am trying to place a picture between a text.
+The text must be read from left to right, from the left column to the right column. Not first whole left column than whole right column. I hope it is ...;
+            ",[9],Place picture between a text
+"
+                In my Angular project, users are being authenticated through OIDC provider using the library angular-auth-oidc-client. So, when user is not authenticated or session expired and requests a page like ...;
+            ",[10],User always being redirected to Home page instead of requested page
+"
+                Following is the smallest fully functional tkinter code I could write to demonstrate a problem I am having in a larger application. This code presents two frames - the left containing a listbox, the ...;
+            ",[11],Python/Tkinter: Unwanted interaction between two widgets
+"
+                is it possible to make a chart like on the screenshot below using Chart.js? I tried multiple examples of the combined charts, but couldn't make it work.
+
+Two Y axis would have different scales. The ...;
+            ",[12],Double Y Axis + Bar chart combo
+"
+                I have an image inside an image control of WPF.
+My question is :
+How can i get the displayed size of the image inside the imageControl with the height and width converted to INT.
+Thank you very much !;
+            ",[13],Get the size of a displayed image inside a WPF ImageControl
+"
+                I would like to use the microsoft graph toolkit in my react app, which I have successfully done as long as I'm not implementing a strict content security policy, which I would like to do.
+I noticed ...;
+            ",[14],Using the Graph Toolkit with strict content security
+id,pregunta
+[0],std::list end iterator after insertion
+[1],Git Bash: how to enable Ctrl-C & Ctrl-V for copy & paste?
+[2],Convert name with accents to name without accent using HIVE
+[3],WSO2 MI 4.0.0 How can we increase timeout? Taking 101505 error
+[4],How to create relationship with temporal table in EF Core
+[5],"Can I configure Graphana not to need passwords for users, without using anonymous login?"
+[6],Python: Custom library with the same folder structure as the current library
+[7],GitHub Actions - Cache CMake build
+[8],How to check if escape key has been pressed 3 times (like the trevor project website's safety)
+[9],Vue3 Move/drag image vertically
+[10],Shopify - best way to incrementally build up a string in Liquid
+[11],Jira: Adding a Link to in issue doesn't work for a project
+[12],"Why does ENOENT mean ""No such file or directory""? in NODE JS"
+[13],Move entity to center of nonAR view
+[14],How to bring a value from a Modal button back to the useEffect (NextJS)
